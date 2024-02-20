@@ -1,0 +1,1 @@
+In this collaborative project, my colleague and I implemented several different sorting algorithms. Working together, we applied various methodologies to efficiently organize data sets, optimizing the sorting process and enhancing overall performance.
